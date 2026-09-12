@@ -133,7 +133,7 @@ The Power BI dashboard provides an interactive view of:
 - Revenue by pizza size
 - Pizza quantity sold by category
 
-![Pizza Sales Dashboard](Dashboard/pizza_sales_dashboard.png)
+Pizza_Sales_Dashboard.png
 
 ---
 
