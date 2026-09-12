@@ -134,7 +134,7 @@ The Power BI dashboard provides an interactive view of:
 - Pizza quantity sold by category
 Pizza_Sales_Dashboard%20.png
 
-(Pizza_Sales_Dashboard%20.png)
+Pizza_Sales_Dashboard%20.png
 
 
 
