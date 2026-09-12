@@ -136,7 +136,7 @@ The Power BI dashboard provides an interactive view of:
 https://github.com/sumyyah-analyst/pizza-sales-analysis/blob/main/Pizza_Sales_Dashboard%20.png
 ---
 
-##  Project Structure
+## Project Structure
 
 ```text
 pizza-sales-analysis/
